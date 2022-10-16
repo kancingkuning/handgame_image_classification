@@ -36,7 +36,7 @@ use more higher treshold for example if(logs.get('accuracy')>0.98 and logs.get('
 
 REFERENCES:
 - https://keras.io/api/callbacks/
-- - https://learnopencv.com/playing-rock-paper-scissors-with-ai/
+- https://learnopencv.com/playing-rock-paper-scissors-with-ai/
 - https://machinelearningknowledge.ai/image-segmentation-in-python-opencv/
 - https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/
 - https://machinelearningmastery.com/padding-and-stride-for-convolutional-neural-networks/
